@@ -1,4 +1,4 @@
-# Wine Analysis Project
+# Vivinner Wine Analysis Project
 
 ## Description
 
