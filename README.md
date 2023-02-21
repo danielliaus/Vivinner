@@ -18,9 +18,10 @@ This project is aimed at scraping wine data from [Vivino](https://www.vivino.com
 ## Usage
 
 1.  Open a terminal and navigate to the project directory: `cd wine-analysis`
-2.  Run the script: `python wine_analysis.py`
+2.  Run the script: `python3 wine_analysis.py`
 3.  Wait for the script to finish running, which might take a few minutes, depending on the number of wines to be scraped and analyzed.
-4.  After the script finishes, the results will be displayed on the console, including the mean price of wines from Australia and Austria, as well as some statistical information about the data.
+4.  After, run the script `python3 transform_data.py`
+5.  After the script finishes, the results will be displayed on the console, including the mean price of wines from Australia and Austria, as well as some statistical information about the data.
 
 ## Contributing
 
